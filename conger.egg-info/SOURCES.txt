@@ -1,0 +1,7 @@
+README.md
+setup.py
+conger.egg-info/PKG-INFO
+conger.egg-info/SOURCES.txt
+conger.egg-info/dependency_links.txt
+conger.egg-info/entry_points.txt
+conger.egg-info/top_level.txt

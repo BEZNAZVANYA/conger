@@ -1,0 +1,2 @@
+[console_scripts]
+conger = conger:main
